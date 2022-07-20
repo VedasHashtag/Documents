@@ -37,16 +37,10 @@ Vedas Hashtag
 ### Section 3. Purpose
 
 
-    The purpose of Vedas Hashtag [ITSN] is to provide a platform for students to develop
+The purpose of Vedas Hashtag [ITSN] is to provide a platform for students to develop a professional network within various faculties and semesters as well as in Information Technology, Businesses, and various industry in society. It will also provide opportunities to develop communication, leadership, marketing, and networking skills, which in turn foster self-confidence and personal growth.
 
 
-    a professional network within various faculties and semesters as well as in Information Technology, Businesses, and various industry in society. It will also provide opportunities to develop communication, leadership, marketing, and networking skills, which in turn foster self-confidence and personal growth.
-
-
-    In order to carry out this purpose, it shall:
-
-
-
+In order to carry out this purpose, it shall:
 * Form a community of motivated students.
 * Provide this student's opportunity to join different positions and assign them with individual responsibilities and encouragement.
 * Organize various events and activities and encourage students to participate.
